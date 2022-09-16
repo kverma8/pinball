@@ -8,10 +8,10 @@ The focus is on gameplay and accurate physics.
 It uses the libgdx Java wrapper for the Box2D physics engine.
 Thanks to Peter Drescher for the sound effects; see [his article on creating them](https://www.twittering.com/webarchive_articles/FMOD%20for%20Android%20-%20O'Reilly%20Broadcast.html).
 
-The GitHub project page is: [github.com/dozingcat/Vector-Pinball/](https://github.com/dozingcat/Vector-Pinball/).
+The GitHub project page is: [https://github.com/kverma8/pinball/](https://github.com/kverma8/pinball/).
 See [devnotes.txt](devnotes.txt) for an overview of the code layout.
 
-There is a very experimental table editor at [github.com/dozingcat/Vector-Pinball-Editor/](https://github.com/dozingcat/Vector-Pinball-Editor/)
+There is a very experimental table editor at [https://github.com/kverma8/pinball-Editor/](https://github.com/kverma8/pinball-Editor/)
 
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
